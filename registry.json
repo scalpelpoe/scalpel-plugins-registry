@@ -1,4 +1,15 @@
 {
   "schemaVersion": 1,
-  "plugins": []
+  "plugins": [
+    {
+      "id": "plugin-examples",
+      "name": "Plugin Examples",
+      "author": "scalpelpoe",
+      "description": "Showcase of every visual component the Scalpel plugin SDK ships, plus a hotkey to copy and inspect the hovered item.",
+      "repo": "scalpelpoe/scalpel-plugin-examples",
+      "latestVersion": "1.0.0",
+      "scalpelMinVersion": ">=0.0.0",
+      "homepage": "https://github.com/scalpelpoe/scalpel-plugin-examples"
+    }
+  ]
 }
