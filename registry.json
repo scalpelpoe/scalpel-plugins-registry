@@ -9,6 +9,7 @@
       "repo": "scalpelpoe/scalpel-plugin-examples",
       "latestVersion": "1.0.0",
       "scalpelMinVersion": ">=0.0.0",
+      "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel/main/resources/icon.png",
       "homepage": "https://github.com/scalpelpoe/scalpel-plugin-examples"
     }
   ]
