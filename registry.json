@@ -10,7 +10,11 @@
       "latestVersion": "1.0.1",
       "scalpelMinVersion": ">=0.0.0",
       "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel/main/resources/icon.png",
-      "homepage": "https://github.com/scalpelpoe/scalpel-plugin-examples"
+      "homepage": "https://github.com/scalpelpoe/scalpel-plugin-examples",
+      "screenshots": [
+        "https://raw.githubusercontent.com/scalpelpoe/scalpel-plugin-examples/master/screenshots/screenshot-1.png",
+        "https://raw.githubusercontent.com/scalpelpoe/scalpel-plugin-examples/master/screenshots/screenshot-2.png"
+      ]
     }
   ]
 }
