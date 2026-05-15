@@ -18,6 +18,7 @@ The curated list of third-party plugins for [Scalpel](https://github.com/scalpel
   "description": "One- or two-line description shown in the browse list.",
   "repo": "your-github-username/your-plugin-repo",
   "latestVersion": "1.0.0",
+  "sha256": "3a985da74fe225b2045c172d6bd390bd855f086e3e9d525b46bfe24511431532",
   "scalpelMinVersion": ">=0.20.0",
   "poeVersions": [1, 2],
   "iconUrl": "https://raw.githubusercontent.com/your-user/your-plugin/main/icon.png",
