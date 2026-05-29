@@ -16,6 +16,21 @@
         "https://raw.githubusercontent.com/scalpelpoe/scalpel-plugin-examples/master/screenshots/screenshot-1.png",
         "https://raw.githubusercontent.com/scalpelpoe/scalpel-plugin-examples/master/screenshots/screenshot-2.png"
       ]
+    },
+    {
+      "id": "poe-event-log",
+      "name": "PoE Event Log",
+      "author": "scalpelpoe",
+      "description": "A clean, filterable feed of in-game events (zones, levels, deaths, whispers, trade) parsed live from the PoE client log, in a pop-out overlay window.",
+      "repo": "scalpelpoe/poe-event-log",
+      "latestVersion": "1.0.0",
+      "sha256": "3c85562932eb3e86deb8b3ef78ef6ed2ba405eec65ef251dc6a613b06057a66d",
+      "scalpelMinVersion": ">=0.9.9",
+      "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/poe-event-log/main/icon.png",
+      "homepage": "https://github.com/scalpelpoe/poe-event-log",
+      "screenshots": [
+        "https://raw.githubusercontent.com/scalpelpoe/poe-event-log/main/screenshots/event-log.png"
+      ]
     }
   ]
 }
