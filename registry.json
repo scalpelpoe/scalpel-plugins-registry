@@ -31,6 +31,19 @@
       "screenshots": [
         "https://raw.githubusercontent.com/scalpelpoe/poe-event-log/main/screenshots/event-log.png"
       ]
+    },
+    {
+      "id": "scalpel-importer",
+      "name": "Scalpel Importer",
+      "author": "juddisjudd",
+      "description": "Import PoBs, pobb.in links, and official Path of Exile .build files directly inside Scalpel.",
+      "repo": "juddisjudd/scalpel-importer",
+      "latestVersion": "1.0.0",
+      "sha256": "35a3fc57ea44cb3857273d6a8a9ac6d89c8a91a3ba3941fbd80e9a75d98fa71f",
+      "scalpelMinVersion": ">=0.9.9",
+      "poeVersions": [1, 2],
+      "iconUrl": "https://raw.githubusercontent.com/juddisjudd/scalpel-importer/main/resources/icon.png",
+      "homepage": "https://github.com/juddisjudd/scalpel-importer"
     }
   ]
 }
