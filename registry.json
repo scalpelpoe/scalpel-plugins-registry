@@ -41,9 +41,28 @@
       "latestVersion": "1.0.0",
       "sha256": "35a3fc57ea44cb3857273d6a8a9ac6d89c8a91a3ba3941fbd80e9a75d98fa71f",
       "scalpelMinVersion": ">=0.9.9",
-      "poeVersions": [1, 2],
+      "poeVersions": [
+        1,
+        2
+      ],
       "iconUrl": "https://raw.githubusercontent.com/juddisjudd/scalpel-importer/main/resources/icon.png",
       "homepage": "https://github.com/juddisjudd/scalpel-importer"
+    },
+    {
+      "id": "ini-editor",
+      "name": ".ini Editor",
+      "author": "scalpelpoe",
+      "description": "Edit your production_Config.ini. If you dare.",
+      "repo": "scalpelpoe/scalpel-ini-editor",
+      "latestVersion": "1.0.0",
+      "sha256": "e4e66b8e6a313a5999c6e1250a34cfc69013ec82b917424e8662b57748daaab9",
+      "scalpelMinVersion": ">=0.9.12",
+      "poeVersions": [
+        1,
+        2
+      ],
+      "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel-ini-editor/main/icon.svg",
+      "homepage": "https://github.com/scalpelpoe/scalpel-ini-editor"
     }
   ]
 }
