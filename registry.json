@@ -52,10 +52,10 @@
       "id": "ini-editor",
       "name": ".ini Editor",
       "author": "scalpelpoe",
-      "description": "Edit the running game's production_Config.ini from inside Scalpel: collapsible sections, typed controls (toggles, dropdowns, sliders, scrubbers, keybind recorder), search, and an explicit save.",
+      "description": "Edit your production_Config.ini. If you dare.",
       "repo": "scalpelpoe/scalpel-ini-editor",
       "latestVersion": "1.0.0",
-      "sha256": "315294fbe7f7bf2aca58bd8fe2e24658d28b48dcca23cdba9311ea72fc622da0",
+      "sha256": "e4e66b8e6a313a5999c6e1250a34cfc69013ec82b917424e8662b57748daaab9",
       "scalpelMinVersion": ">=0.9.12",
       "poeVersions": [
         1,
