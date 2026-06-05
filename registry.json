@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "plugins": [
     {
-      "id": "plugin-examples",
-      "name": "Plugin Examples",
+      "id": "currency-exchange",
+      "name": "Currency Exchange Rates",
       "author": "scalpelpoe",
-      "description": "Showcase of every visual component the Scalpel plugin SDK ships, plus a hotkey to copy and inspect the hovered item.",
-      "repo": "scalpelpoe/scalpel-plugin-examples",
-      "latestVersion": "1.0.2",
-      "sha256": "a1d80812ed84b7e2c189ef15238686dcd7c2b5505012eadb5f819a6406d458c0",
-      "scalpelMinVersion": ">=0.0.0",
-      "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel/main/resources/icon.png",
-      "homepage": "https://github.com/scalpelpoe/scalpel-plugin-examples",
-      "screenshots": [
-        "https://raw.githubusercontent.com/scalpelpoe/scalpel-plugin-examples/master/screenshots/screenshot-1.png",
-        "https://raw.githubusercontent.com/scalpelpoe/scalpel-plugin-examples/master/screenshots/screenshot-2.png"
-      ]
+      "description": "Easily monitor exchange rates for currency. Pretty straightforward.",
+      "repo": "scalpelpoe/scalpel-currency-exchange",
+      "latestVersion": "1.0.0",
+      "sha256": "9eece5d3f8392a369a0a894039c3c71964ae2b849d4330b4c0746c7e23396db3",
+      "scalpelMinVersion": ">=0.9.13-rc3",
+      "poeVersions": [
+        1,
+        2
+      ],
+      "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel-currency-exchange/main/icon.png",
+      "homepage": "https://github.com/scalpelpoe/scalpel-currency-exchange"
     },
     {
       "id": "poe-event-log",
@@ -64,21 +64,21 @@
       "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel-ini-editor/main/icon.svg",
       "homepage": "https://github.com/scalpelpoe/scalpel-ini-editor"
     },
-    {
-      "id": "currency-exchange",
-      "name": "Currency Exchange Rates",
+        {
+      "id": "plugin-examples",
+      "name": "Plugin Examples",
       "author": "scalpelpoe",
-      "description": "Easily monitor exchange rates for currency. Pretty straightforward.",
-      "repo": "scalpelpoe/scalpel-currency-exchange",
-      "latestVersion": "1.0.0",
-      "sha256": "9eece5d3f8392a369a0a894039c3c71964ae2b849d4330b4c0746c7e23396db3",
-      "scalpelMinVersion": ">=0.9.13-rc3",
-      "poeVersions": [
-        1,
-        2
-      ],
-      "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel-currency-exchange/main/icon.png",
-      "homepage": "https://github.com/scalpelpoe/scalpel-currency-exchange"
+      "description": "Showcase of every visual component the Scalpel plugin SDK ships, plus a hotkey to copy and inspect the hovered item.",
+      "repo": "scalpelpoe/scalpel-plugin-examples",
+      "latestVersion": "1.0.2",
+      "sha256": "a1d80812ed84b7e2c189ef15238686dcd7c2b5505012eadb5f819a6406d458c0",
+      "scalpelMinVersion": ">=0.0.0",
+      "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel/main/resources/icon.png",
+      "homepage": "https://github.com/scalpelpoe/scalpel-plugin-examples",
+      "screenshots": [
+        "https://raw.githubusercontent.com/scalpelpoe/scalpel-plugin-examples/master/screenshots/screenshot-1.png",
+        "https://raw.githubusercontent.com/scalpelpoe/scalpel-plugin-examples/master/screenshots/screenshot-2.png"
+      ]
     }
   ]
 }
