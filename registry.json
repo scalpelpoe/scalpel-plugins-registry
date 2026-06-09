@@ -7,8 +7,8 @@
       "author": "scalpelpoe",
       "description": "Easily monitor exchange rates for currency. Pretty straightforward.",
       "repo": "scalpelpoe/scalpel-currency-exchange",
-      "latestVersion": "1.0.1",
-      "sha256": "24eafb125200b319b114aed31c335fabde1fb45248495b152db67f30676832b2",
+      "latestVersion": "1.1.0",
+      "sha256": "1a8fda3e6da7c1ce7af7fd172c00592e5f228642e353362877b2371dbf8d37d2",
       "scalpelMinVersion": ">=0.9.13-rc3",
       "poeVersions": [
         1,
