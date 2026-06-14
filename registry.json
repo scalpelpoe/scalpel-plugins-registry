@@ -79,6 +79,21 @@
         "https://raw.githubusercontent.com/scalpelpoe/scalpel-plugin-examples/master/screenshots/screenshot-1.png",
         "https://raw.githubusercontent.com/scalpelpoe/scalpel-plugin-examples/master/screenshots/screenshot-2.png"
       ]
+    },
+    {
+      "id": "loot-tracker",
+      "name": "Loot Tracker",
+      "author": "cccarv82",
+      "description": "Track loot per session and map. Live value via poe.ninja, drops/hour, top items, export to JSON/CSV.",
+      "repo": "cccarv82/scalpel-loot-tracker",
+      "latestVersion": "0.1.1",
+      "sha256": "f18f0cf5e5c01d5b87c2c6c54412870b52e14d9eef2821dbd0cdb1c267ab72b0",
+      "scalpelMinVersion": ">=0.9.13",
+      "poeVersions": [
+        1,
+        2
+      ],
+      "homepage": "https://github.com/cccarv82/scalpel-loot-tracker"
     }
   ]
 }
