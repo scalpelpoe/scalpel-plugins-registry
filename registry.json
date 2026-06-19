@@ -79,6 +79,22 @@
         "https://raw.githubusercontent.com/scalpelpoe/scalpel-plugin-examples/master/screenshots/screenshot-1.png",
         "https://raw.githubusercontent.com/scalpelpoe/scalpel-plugin-examples/master/screenshots/screenshot-2.png"
       ]
+    },
+    {
+      "id": "services-market",
+      "name": "Services Market",
+      "author": "cccarv82",
+      "description": "Marketplace for in-game services (carries, trials, ascendancies, map hosting, campaigns). Discord-authed, currency-only payments, ratings + reports.",
+      "repo": "cccarv82/scalpel-services-market",
+      "latestVersion": "0.1.3",
+      "sha256": "f2f9861b12a9d1de68bd995c6053842e285f58d40448702b84b16fe3a31797f5",
+      "scalpelMinVersion": ">=0.9.15",
+      "poeVersions": [
+        1,
+        2
+      ],
+      "iconUrl": "https://raw.githubusercontent.com/cccarv82/scalpel-services-market/main/icon.svg",
+      "homepage": "https://github.com/cccarv82/scalpel-services-market"
     }
   ]
 }
