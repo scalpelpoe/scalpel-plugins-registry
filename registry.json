@@ -79,6 +79,24 @@
         "https://raw.githubusercontent.com/scalpelpoe/scalpel-plugin-examples/master/screenshots/screenshot-1.png",
         "https://raw.githubusercontent.com/scalpelpoe/scalpel-plugin-examples/master/screenshots/screenshot-2.png"
       ]
+    },
+    {
+      "id": "well-tiers",
+      "name": "Scalpel OCR",
+      "author": "scalpelpoe",
+      "description": "Adds the ability to set a hotkey that uses OCR to display tiers at the Well of Souls. More, eventually.",
+      "repo": "scalpelpoe/scalpel-well-tiers",
+      "latestVersion": "1.0.0",
+      "sha256": "80cb86475ab29fe89a595533afc0aab9dac9996a0d7d897776dc4925283247cd",
+      "scalpelMinVersion": ">=0.9.16-rc1",
+      "poeVersions": [
+        2
+      ],
+      "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel-well-tiers/master/assets/icon.png",
+      "homepage": "https://github.com/scalpelpoe/scalpel-well-tiers",
+      "screenshots": [
+        "https://raw.githubusercontent.com/scalpelpoe/scalpel-well-tiers/master/assets/ss1.png"
+      ]
     }
   ]
 }
