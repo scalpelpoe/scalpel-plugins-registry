@@ -7,8 +7,8 @@
       "author": "scalpelpoe",
       "description": "Easily monitor exchange rates for currency. Pretty straightforward.",
       "repo": "scalpelpoe/scalpel-currency-exchange",
-      "latestVersion": "1.2.0",
-      "sha256": "548011cc303ceb2c5ce5c60d8a4b9e3b9d6f535169b45689e5df7211baafdd24",
+      "latestVersion": "1.3.0",
+      "sha256": "ac8f1875e8e6cae2c1b9186416ded60358fe0d0959d0cd910673dfca1ea22eb7",
       "scalpelMinVersion": ">=0.9.13-rc3",
       "poeVersions": [
         1,
@@ -78,6 +78,24 @@
       "screenshots": [
         "https://raw.githubusercontent.com/scalpelpoe/scalpel-plugin-examples/master/screenshots/screenshot-1.png",
         "https://raw.githubusercontent.com/scalpelpoe/scalpel-plugin-examples/master/screenshots/screenshot-2.png"
+      ]
+    },
+    {
+      "id": "well-tiers",
+      "name": "Scalpel OCR",
+      "author": "scalpelpoe",
+      "description": "Adds an OCR hotkey that shows hidden affix tiers at the Well of Souls and prices the rewards for the RoA league mechanic",
+      "repo": "scalpelpoe/scalpel-well-tiers",
+      "latestVersion": "1.1.0",
+      "sha256": "bef3a1a9c8f106887b565fc1f9dd289d721e829f14763225a8f8f20e140d23fa",
+      "scalpelMinVersion": ">=0.9.16-rc1",
+      "poeVersions": [
+        2
+      ],
+      "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel-well-tiers/master/assets/icon.png",
+      "homepage": "https://github.com/scalpelpoe/scalpel-well-tiers",
+      "screenshots": [
+        "https://raw.githubusercontent.com/scalpelpoe/scalpel-well-tiers/master/assets/ss1.png"
       ]
     },
     {
