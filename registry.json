@@ -97,6 +97,22 @@
       "screenshots": [
         "https://raw.githubusercontent.com/scalpelpoe/scalpel-well-tiers/master/assets/ss1.png"
       ]
+    },
+    {
+      "id": "loot-tracker",
+      "name": "Loot Tracker",
+      "author": "cccarv82",
+      "description": "Track loot per session and map. Live value via poe.ninja, drops/hour, top items, export to JSON/CSV.",
+      "repo": "cccarv82/scalpel-loot-tracker",
+      "latestVersion": "0.1.2",
+      "sha256": "a2c6c36d5be359b79ec9eecf85b702bcef18b4968a3d6c5cb1541cfdbdd814d1",
+      "scalpelMinVersion": ">=0.9.13",
+      "poeVersions": [
+        1,
+        2
+      ],
+      "iconUrl": "https://raw.githubusercontent.com/cccarv82/scalpel-loot-tracker/main/icon.svg",
+      "homepage": "https://github.com/cccarv82/scalpel-loot-tracker"
     }
   ]
 }
