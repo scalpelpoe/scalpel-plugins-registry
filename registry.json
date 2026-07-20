@@ -113,6 +113,21 @@
       ],
       "iconUrl": "https://raw.githubusercontent.com/cccarv82/scalpel-loot-tracker/main/icon.svg",
       "homepage": "https://github.com/cccarv82/scalpel-loot-tracker"
+    },
+    {
+      "id": "cluster-back",
+      "name": "Cluster Back",
+      "author": "scalpelpoe",
+      "description": "Large Cluster Jewel finder for PoE1. Pick some desired notables, then find and search trade for options that put a trash notable in back.",
+      "repo": "scalpelpoe/scalpel-cluster-back",
+      "latestVersion": "1.0.0",
+      "sha256": "249923e929910610758594eb2357f74424a1aa6ea6173ff8a7b270bfe8bd9d37",
+      "scalpelMinVersion": ">=0.9.13-rc3",
+      "poeVersions": [
+        1
+      ],
+      "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel-cluster-back/main/icon.png",
+      "homepage": "https://github.com/scalpelpoe/scalpel-cluster-back"
     }
   ]
 }
