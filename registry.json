@@ -135,7 +135,7 @@
       "author": "xmopi",
       "description": "Makes finding rare hideouts easy by letting you know if a map you entered spawned a hideout.",
       "repo": "xmopi/hideout-hunter",
-      "latestVersion": "1.0.1",
+      "latestVersion": "1.0.0",
       "sha256": "d54d86ac88813a479788b38223c5d4ff7dfb91679df6d5109b2f7b96ceb6b2c5",
       "scalpelMinVersion": ">=0.9.13",
       "poeVersions": [1],
