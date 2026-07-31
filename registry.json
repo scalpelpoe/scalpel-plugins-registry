@@ -156,6 +156,19 @@
       "poeVersions": [1],
       "iconUrl": "https://raw.githubusercontent.com/xmopi/hideout-hunter/refs/heads/main/icon.svg",
       "homepage": "https://github.com/xmopi/hideout-hunter"
+    },
+    {
+      "id": "scalpel-harvest",
+      "name": "Scalpel Harvest",
+      "author": "eniner",
+      "description": "Harvest conversion profitability for essences, fossils, catalysts, oils, delirium orbs, breachstones, and timeless emblems (PoE1).",
+      "repo": "eniner/scalpel-harvest",
+      "latestVersion": "1.0.0",
+      "sha256": "33f47613c19056ff8fd0989b655825d7a28594e601b837099a65c62553c692a6",
+      "scalpelMinVersion": ">=0.9.16-rc1",
+      "poeVersions": [1],
+      "iconUrl": "https://raw.githubusercontent.com/eniner/scalpel-harvest/main/icon.png",
+      "homepage": "https://github.com/eniner/scalpel-harvest"
     }
   ]
 }
