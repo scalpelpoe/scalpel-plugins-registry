@@ -64,7 +64,7 @@
       "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel-ini-editor/main/icon.svg",
       "homepage": "https://github.com/scalpelpoe/scalpel-ini-editor"
     },
-        {
+    {
       "id": "plugin-examples",
       "name": "Plugin Examples",
       "author": "scalpelpoe",
@@ -128,6 +128,21 @@
       ],
       "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel-cluster-back/main/icon.png",
       "homepage": "https://github.com/scalpelpoe/scalpel-cluster-back"
+    },
+    {
+      "id": "map-mod-check",
+      "name": "Map Mod Check",
+      "author": "BurtonCameron",
+      "description": "Hover a map, press a hotkey, and get a Good / Warn / Bad verdict on your pre-configured map mods.",
+      "repo": "BurtonCameron/Scalple-MapModCheck",
+      "latestVersion": "1.0.0",
+      "sha256": "77b78c3590063e76f1b5a34362d1402e479fcf4988ff86e0b14d0779e63fb0b1",
+      "scalpelMinVersion": ">=1.0.0",
+      "poeVersions": [
+        1
+      ],
+      "iconUrl": "https://raw.githubusercontent.com/BurtonCameron/Scalple-MapModCheck/main/icon.svg",
+      "homepage": "https://github.com/BurtonCameron/Scalple-MapModCheck"
     },
     {
       "id": "hideout-hunter",
