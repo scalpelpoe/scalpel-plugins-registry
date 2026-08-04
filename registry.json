@@ -156,6 +156,19 @@
       "poeVersions": [1],
       "iconUrl": "https://raw.githubusercontent.com/xmopi/hideout-hunter/refs/heads/main/icon.svg",
       "homepage": "https://github.com/xmopi/hideout-hunter"
+    },
+    {
+      "id": "scalpel-timeless-jewels",
+      "name": "Timeless Jewels",
+      "author": "eniner",
+      "description": "PoE1 Timeless Jewel calculator with skill-tree sister window (Vilsol engine). Paste a jewel, pick a socket, list transformed Notables/Smalls.",
+      "repo": "eniner/scalpel-timeless-jewels",
+      "latestVersion": "1.0.0",
+      "sha256": "9306c400bbf5e1927abfd8dc6f5607370828bc34a552427560a16477bd53226d",
+      "scalpelMinVersion": ">=0.9.16-rc1",
+      "poeVersions": [1],
+      "iconUrl": "https://raw.githubusercontent.com/eniner/scalpel-timeless-jewels/main/icon.png",
+      "homepage": "https://github.com/eniner/scalpel-timeless-jewels"
     }
   ]
 }
