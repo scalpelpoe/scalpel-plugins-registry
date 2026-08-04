@@ -156,6 +156,19 @@
       "poeVersions": [1],
       "iconUrl": "https://raw.githubusercontent.com/xmopi/hideout-hunter/refs/heads/main/icon.svg",
       "homepage": "https://github.com/xmopi/hideout-hunter"
+    },
+    {
+      "id": "scalpel-filter-editor",
+      "name": "Filter Editor",
+      "author": "eniner",
+      "description": "Opens Scalpel's Filter Section Editor sister window (PoE1/PoE2). Tab + bindable hotkey. Requires host filterSectionEditor API.",
+      "repo": "eniner/scalpel-filter-editor",
+      "latestVersion": "1.0.0",
+      "sha256": "da9dfcc74a795cf00737572d5193a32b188e3f44a29538dadf35ab3e7be51efb",
+      "scalpelMinVersion": ">=0.9.16-rc1",
+      "poeVersions": [1, 2],
+      "iconUrl": "https://raw.githubusercontent.com/eniner/scalpel-filter-editor/main/icon.png",
+      "homepage": "https://github.com/eniner/scalpel-filter-editor"
     }
   ]
 }
