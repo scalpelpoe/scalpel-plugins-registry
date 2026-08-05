@@ -153,9 +153,26 @@
       "latestVersion": "1.0.0",
       "sha256": "d54d86ac88813a479788b38223c5d4ff7dfb91679df6d5109b2f7b96ceb6b2c5",
       "scalpelMinVersion": ">=0.9.13",
-      "poeVersions": [1],
+      "poeVersions": [
+        1
+      ],
       "iconUrl": "https://raw.githubusercontent.com/xmopi/hideout-hunter/refs/heads/main/icon.svg",
       "homepage": "https://github.com/xmopi/hideout-hunter"
+    },
+    {
+      "id": "scalpel-advisor",
+      "name": "Scalpel Advisor",
+      "author": "eniner",
+      "description": "PoE1 farming EV hub — gems, beasts, scarabs, essences, harvest, bosses, betrayal, scrying, and more.",
+      "repo": "eniner/scalpel-advisor",
+      "latestVersion": "1.1.0",
+      "sha256": "d20dc5a4e4189e75dfd5d64b28221ab4b440857daaf7fce0f8ed0fce58157bf4",
+      "scalpelMinVersion": ">=0.9.16-rc1",
+      "poeVersions": [
+        1
+      ],
+      "iconUrl": "https://raw.githubusercontent.com/eniner/scalpel-advisor/main/icon.png",
+      "homepage": "https://github.com/eniner/scalpel-advisor"
     }
   ]
 }
