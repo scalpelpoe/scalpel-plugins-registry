@@ -156,6 +156,19 @@
       "poeVersions": [1],
       "iconUrl": "https://raw.githubusercontent.com/xmopi/hideout-hunter/refs/heads/main/icon.svg",
       "homepage": "https://github.com/xmopi/hideout-hunter"
+    },
+    {
+      "id": "scalpel-warrants",
+      "name": "Scalpel Warrants",
+      "author": "eniner",
+      "description": "Mercenary Warrant market scanner - find skill+support packages, whisper sellers, travel to hideout (PoE1)",
+      "repo": "eniner/scalpel-warrants",
+      "latestVersion": "1.1.1",
+      "sha256": "9365d1de205d7a16f3c38b5dd3fc6acf4a335134027f4ed108136b669e9b66ca",
+      "scalpelMinVersion": ">=0.9.16-rc1",
+      "poeVersions": [1],
+      "iconUrl": "https://raw.githubusercontent.com/eniner/scalpel-warrants/main/icon.svg",
+      "homepage": "https://github.com/eniner/scalpel-warrants"
     }
   ]
 }
