@@ -3,6 +3,7 @@
   "plugins": [
     {
       "id": "currency-exchange",
+      "featured": true,
       "name": "Currency Exchange Rates",
       "author": "scalpelpoe",
       "description": "Easily monitor exchange rates for currency. Pretty straightforward.",
@@ -82,6 +83,7 @@
     },
     {
       "id": "well-tiers",
+      "featured": true,
       "name": "Scalpel OCR",
       "author": "scalpelpoe",
       "description": "OCR hotkey for Well of Souls affix tiers and Runeshape Combinations reward pricing (layout row detection + per-row masked OCR)",
@@ -116,6 +118,7 @@
     },
     {
       "id": "cluster-back",
+      "featured": true,
       "name": "Cluster Back",
       "author": "scalpelpoe",
       "description": "Large Cluster Jewel finder for PoE1. Pick some desired notables, then find and search trade for options that put a trash notable in back.",
@@ -159,6 +162,7 @@
     },
     {
       "id": "calculator",
+      "featured": true,
       "name": "Calculator",
       "author": "scalpelpoe",
       "description": "A calculator. Like, to do math with. For currency exchange math. Or whatever else.",
