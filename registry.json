@@ -156,6 +156,22 @@
       "poeVersions": [1],
       "iconUrl": "https://raw.githubusercontent.com/xmopi/hideout-hunter/refs/heads/main/icon.svg",
       "homepage": "https://github.com/xmopi/hideout-hunter"
+    },
+    {
+      "id": "calculator",
+      "name": "Calculator",
+      "author": "scalpelpoe",
+      "description": "A calculator. Like, to do math with. For currency exchange math. Or whatever else.",
+      "repo": "scalpelpoe/scalpel-calculator",
+      "latestVersion": "1.0.0",
+      "sha256": "37a85f6bf1ef363ecb6d7305366d8a43d7f6535ae12ad1571512b91e901837c6",
+      "scalpelMinVersion": ">=1.0.3-rc1",
+      "poeVersions": [1, 2],
+      "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel-calculator/main/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/scalpelpoe/scalpel-calculator/main/screenshots/currency-exchange.png"
+      ],
+      "homepage": "https://github.com/scalpelpoe/scalpel-calculator"
     }
   ]
 }
