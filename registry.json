@@ -176,6 +176,21 @@
         "https://raw.githubusercontent.com/scalpelpoe/scalpel-calculator/main/screenshots/currency-exchange.png"
       ],
       "homepage": "https://github.com/scalpelpoe/scalpel-calculator"
+    },
+    {
+      "id": "scalpel-quest-tracker",
+      "name": "Scalpel Quest Tracker",
+      "author": "eniner",
+      "description": "PoE2 campaign checklist with leveling, endgame, and crafting guides — zone follow, progress export, and Waystone-style UI.",
+      "repo": "eniner/scalpel-quest-tracker",
+      "latestVersion": "1.3.2",
+      "sha256": "f6c41768346bcc27a978c1d7133ffef11501575395bd23983caa9414b3678ab6",
+      "scalpelMinVersion": ">=0.9.16-rc1",
+      "poeVersions": [
+        2
+      ],
+      "iconUrl": "https://raw.githubusercontent.com/eniner/scalpel-quest-tracker/main/icon.svg",
+      "homepage": "https://github.com/eniner/scalpel-quest-tracker"
     }
   ]
 }
