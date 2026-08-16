@@ -136,11 +136,11 @@
       "id": "map-mod-check",
       "name": "Map Mod Check",
       "author": "BurtonCameron",
-      "description": "Hover a map, press a hotkey, and get a Good / Warn / Bad verdict on your pre-configured map mods.",
+      "description": "Hover a map, press a hotkey, and get a Good / Warn / Bad verdict beside your cursor, pre-flagged by Scalpel's map-mod danger scale.",
       "repo": "BurtonCameron/Scalple-MapModCheck",
-      "latestVersion": "1.0.0",
-      "sha256": "77b78c3590063e76f1b5a34362d1402e479fcf4988ff86e0b14d0779e63fb0b1",
-      "scalpelMinVersion": ">=1.0.0",
+      "latestVersion": "2.0.0",
+      "sha256": "b35862831e7c1882bdc4b298a3ecbde9c8f6b6ffd448fce66e0ef73da8122a1a",
+      "scalpelMinVersion": ">=1.0.2",
       "poeVersions": [
         1
       ],
