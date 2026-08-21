@@ -212,7 +212,7 @@
       "id": "now-playing",
       "name": "Now Playing",
       "author": "scalpelpoe",
-      "description": "See and control what's playing - Spotify or any Windows media player - without leaving the game. Album art, track details, play/pause and skip.",
+      "description": "Windows Only. See and control what's playing - Spotify, YouTube, or most media players. Album art, track details, play/pause and skip.",
       "repo": "scalpelpoe/scalpel-now-playing",
       "latestVersion": "1.0.0",
       "sha256": "455c100448c0822d0a03f473e0455e5bb0d3193d85f2f71b5904e908fb37c2a3",
