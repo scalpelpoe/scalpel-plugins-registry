@@ -123,8 +123,8 @@
       "author": "scalpelpoe",
       "description": "Large Cluster Jewel finder for PoE1. Pick some desired notables, then find and search trade for options that put a trash notable in back.",
       "repo": "scalpelpoe/scalpel-cluster-back",
-      "latestVersion": "1.1.0",
-      "sha256": "11631265206f323b6afdd17cf1eb4702879bb23d2d2a857d5da500c221bd5a87",
+      "latestVersion": "1.1.1",
+      "sha256": "7676031eeb83ce2c62ea2b8fe972b586e1b0428580f6c6d089f847b4a22b93e9",
       "scalpelMinVersion": ">=0.9.13-rc3",
       "poeVersions": [
         1
@@ -207,6 +207,22 @@
       ],
       "iconUrl": "https://raw.githubusercontent.com/eniner/scalpel-dps/main/icon.svg",
       "homepage": "https://github.com/eniner/scalpel-dps"
+    },
+    {
+      "id": "now-playing",
+      "name": "Now Playing",
+      "author": "scalpelpoe",
+      "description": "Windows Only. See and control what's playing - Spotify, YouTube, or most media players. Album art, track details, play/pause and skip.",
+      "repo": "scalpelpoe/scalpel-now-playing",
+      "latestVersion": "1.0.1",
+      "sha256": "44a55ddf53e9bb66f930500767be83a206961f78bcdbdbae24f5c0efdc5b560c",
+      "scalpelMinVersion": ">=1.0.4-rc1",
+      "poeVersions": [
+        1,
+        2
+      ],
+      "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel-now-playing/main/icon.svg",
+      "homepage": "https://github.com/scalpelpoe/scalpel-now-playing"
     },
     {
       "id": "scalpel-timeless-poe2",
