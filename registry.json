@@ -123,8 +123,8 @@
       "author": "scalpelpoe",
       "description": "Large Cluster Jewel finder for PoE1. Pick some desired notables, then find and search trade for options that put a trash notable in back.",
       "repo": "scalpelpoe/scalpel-cluster-back",
-      "latestVersion": "1.1.0",
-      "sha256": "11631265206f323b6afdd17cf1eb4702879bb23d2d2a857d5da500c221bd5a87",
+      "latestVersion": "1.1.1",
+      "sha256": "7676031eeb83ce2c62ea2b8fe972b586e1b0428580f6c6d089f847b4a22b93e9",
       "scalpelMinVersion": ">=0.9.13-rc3",
       "poeVersions": [
         1
