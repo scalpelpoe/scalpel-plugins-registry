@@ -223,6 +223,21 @@
       ],
       "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel-now-playing/main/icon.svg",
       "homepage": "https://github.com/scalpelpoe/scalpel-now-playing"
+    },
+    {
+      "id": "scalpel-timeless-poe2",
+      "name": "PoE2 Historic Jewels",
+      "author": "eniner",
+      "description": "PoE2 Historic, Time-Lost, and Metamorphosis jewel planner: socket radius map, grants on notables, leader keystone, and weighted pool. Not a seed calculator.",
+      "repo": "eniner/scalpel-timeless-poe2",
+      "latestVersion": "0.1.8",
+      "sha256": "a438fdf08d73f4e1612c9a22d082e30813d447b76995b5cfc14f7515dc74e310",
+      "scalpelMinVersion": ">=0.9.16-rc1",
+      "poeVersions": [
+        2
+      ],
+      "iconUrl": "https://raw.githubusercontent.com/eniner/scalpel-timeless-poe2/main/icon.svg",
+      "homepage": "https://github.com/eniner/scalpel-timeless-poe2"
     }
   ]
 }
