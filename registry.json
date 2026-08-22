@@ -214,8 +214,8 @@
       "author": "scalpelpoe",
       "description": "Windows Only. See and control what's playing - Spotify, YouTube, or most media players. Album art, track details, play/pause and skip.",
       "repo": "scalpelpoe/scalpel-now-playing",
-      "latestVersion": "1.0.0",
-      "sha256": "455c100448c0822d0a03f473e0455e5bb0d3193d85f2f71b5904e908fb37c2a3",
+      "latestVersion": "1.0.1",
+      "sha256": "44a55ddf53e9bb66f930500767be83a206961f78bcdbdbae24f5c0efdc5b560c",
       "scalpelMinVersion": ">=1.0.4-rc1",
       "poeVersions": [
         1,
