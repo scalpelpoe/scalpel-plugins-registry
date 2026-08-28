@@ -223,6 +223,21 @@
       ],
       "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel-now-playing/main/icon.svg",
       "homepage": "https://github.com/scalpelpoe/scalpel-now-playing"
+    },
+    {
+      "id": "scalpel-deals",
+      "name": "Listing Watch",
+      "author": "eniner",
+      "description": "PoE2 trade monitor that flags underpriced listings. Alerts only — never auto-whispers or buys.",
+      "repo": "eniner/scalpel-deals",
+      "latestVersion": "0.1.0",
+      "sha256": "271762feb09061f77d3062f94d63feb5b58456d0c0a7b7336941800800edba82",
+      "scalpelMinVersion": ">=0.9.16-rc1",
+      "poeVersions": [
+        2
+      ],
+      "iconUrl": "https://raw.githubusercontent.com/eniner/scalpel-deals/main/icon.svg",
+      "homepage": "https://github.com/eniner/scalpel-deals"
     }
   ]
 }
