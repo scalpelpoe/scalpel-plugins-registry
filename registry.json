@@ -223,6 +223,21 @@
       ],
       "iconUrl": "https://raw.githubusercontent.com/scalpelpoe/scalpel-now-playing/main/icon.svg",
       "homepage": "https://github.com/scalpelpoe/scalpel-now-playing"
+    },
+    {
+      "id": "scalpel-strats",
+      "name": "Scalpel Strats",
+      "author": "eniner",
+      "description": "PoE2 Atlas farming strategies, Expedition Aldur's rumour checker, and useful links",
+      "repo": "eniner/scalpel-strats",
+      "latestVersion": "1.1.0",
+      "sha256": "5c6445869b985a419787286b61be3ff36a3087757ce729c759e0ae0275f02884",
+      "scalpelMinVersion": ">=0.9.16-rc1",
+      "poeVersions": [
+        2
+      ],
+      "iconUrl": "https://raw.githubusercontent.com/eniner/scalpel-strats/main/icon.svg",
+      "homepage": "https://github.com/eniner/scalpel-strats"
     }
   ]
 }
