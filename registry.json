@@ -88,8 +88,8 @@
       "author": "scalpelpoe",
       "description": "OCR hotkey for Well of Souls affix tiers and Runeshape Combinations reward pricing (layout row detection + per-row masked OCR)",
       "repo": "scalpelpoe/scalpel-well-tiers",
-      "latestVersion": "1.2.0",
-      "sha256": "0b1d5446e39ec793dbf9843ae9f952b5580411559b728e5a831d8803d7a97809",
+      "latestVersion": "1.2.1",
+      "sha256": "aa45dca5ca5e4485c2b31b815f2d578a15c9695c7d743f218f77ff09d1abb6b5",
       "scalpelMinVersion": ">=0.9.16-rc1",
       "poeVersions": [
         2
